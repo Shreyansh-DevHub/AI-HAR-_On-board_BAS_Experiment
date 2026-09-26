@@ -186,20 +186,6 @@ ai-har-plus/
 
 > The entire application is contained in a **single HTML file** — no build step, no npm, no bundler. Just open and run.
 
----
-
-## How to Run
-
-1. **Clone or download** this repository
-2. Open `prototype2.html` in any modern browser
-3. Click **"Start Camera"** and grant camera permission
-4. Present a **RED object** to the camera and hold for 5 seconds
-5. Follow the on-screen prompts and voice guidance
-6. Export your session log as `.txt` or `.csv`
-
-> **Note:** Camera access requires `https://` or `localhost`. For local testing, use a simple server like `python -m http.server`.
-
----
 
 ## Why This Project Matters
 
