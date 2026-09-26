@@ -199,13 +199,6 @@ AI-HAR+ demonstrates that **you don't always need deep learning** to solve real-
 
 It's a case study in **choosing the right tool for the job** — and often, the simplest solution wins.
 
----
-
-## License
-
-MIT License — free to use, modify, and distribute.
-
----
 
 ## Acknowledgments
 
